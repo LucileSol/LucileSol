@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<img align="right" src="octocat-1742304445215.png" width="280">
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,kubernetes,docker,anaconda,bash,perl,linux,regex,vscode,atom" />
