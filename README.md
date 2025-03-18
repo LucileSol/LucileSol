@@ -1,4 +1,7 @@
+<img align="right" src="octocat-1742304445215.png" width="280">
+
 ## Hi there 👋 I am Lucile
+
 
 <!--
 **LucileSol/LucileSol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,8 +23,6 @@ I am a bioinformatician and co-lead of the Evolution and Biodiversity team at th
 In my role, I support Swedish researchers in areas such as genome assembly, genome annotation, comparative genomics, and more.  
 My work focuses on helping researchers navigate and analyze complex genomic data, contributing to advancements in evolutionary biology and biodiversity.
 
-
-<img align="right" src="octocat-1742304445215.png" width="280">
 
 
 <p align="center">
