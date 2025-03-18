@@ -23,6 +23,9 @@ I am a bioinformatician and co-lead of the Evolution and Biodiversity team at th
 In my role, I support Swedish researchers in areas such as genome assembly, genome annotation, comparative genomics, and more.  
 My work focuses on helping researchers navigate and analyze complex genomic data, contributing to advancements in evolutionary biology and biodiversity.
 
+<!--
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=LucileSol&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+-->
 
 
 <p align="center">
