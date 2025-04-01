@@ -30,6 +30,6 @@ My work focuses on helping researchers navigate and analyze complex genomic data
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,anaconda,bash,perl,linux,regex,vscode,atom" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,anaconda,bash,perl,linux,regex,vscode,atom&theme=light" />
   </a>
 </p>
